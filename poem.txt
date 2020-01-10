@@ -5,6 +5,8 @@ dogs
 rats
 ponies 
 lizards
+potatoes
+bananas
 tortels
 fishes
 wasps 
@@ -12,5 +14,4 @@ ants
 bees
 apps
 junicorns
-mucha
-żuk
+
