@@ -3,5 +3,7 @@ cats
 birds
 dogs
 rats
+ponies 
+lizards
 tortels
 fishes
