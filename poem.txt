@@ -12,3 +12,5 @@ ants
 bees
 apps
 junicorns
+mucha
+żuk
