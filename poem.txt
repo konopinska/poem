@@ -1,4 +1,4 @@
-my animals
+my animals and insects
 cats 
 birds
 dogs
@@ -7,3 +7,6 @@ ponies
 lizards
 tortels
 fishes
+wasps 
+ants
+bees
