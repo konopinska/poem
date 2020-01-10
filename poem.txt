@@ -2,4 +2,6 @@ my animals
 cats 
 birds
 dogs
+rats
+tortels
 fishes
